@@ -72,6 +72,8 @@ debt-collection-inventory-ai/
 ├── README.md              (english)
 ├── README_ES.md           (spanish)
 ├── workflow.json
+├── .env.example
+├── gitignore
 ├── LICENSE
 ├── data/
 │   └── Proyecto_Inventario_Cobranza.xlsx
