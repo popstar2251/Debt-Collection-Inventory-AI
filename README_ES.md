@@ -81,6 +81,8 @@ debt-collection-inventory-ai/
 ├── README.md              (inglés - nombre por defecto)
 ├── README_ES.md           (español)
 ├── workflow.json
+├── .env.example
+├── .gitignore
 ├── LICENSE
 ├── data/
 │   └── Proyecto_Inventario_Cobranza.xlsx
@@ -94,6 +96,20 @@ debt-collection-inventory-ai/
 ---
 
 ## 🚀 Guía de configuración
+
+### 🔐 Variables de entorno
+
+Crea un archivo `.env` basado en `.env.example`.
+
+Ejemplo de configuración:
+
+- `GEMINI_API_KEY`
+- `WHATSAPP_TOKEN`
+- `WHATSAPP_PHONE_NUMBER_ID`
+- `GOOGLE_SHEETS_ID`
+- `HUBSPOT_ACCESS_TOKEN`
+
+Nunca subas credenciales reales o tokens a GitHub.
 
 ### 1. Requisitos previos
 
