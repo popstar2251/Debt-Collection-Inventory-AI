@@ -68,9 +68,9 @@ Genera y envía automáticamente al Director un informe completo de todos los cl
 
 ## 📸 Capturas de pantalla
 
-| Vista general del workflow | Flujo de cobranza | Alerta de inventario | Reporte semanal |
-|---|---|---|---|
-| ![Overview](assets/workflow-overview.png) | ![Collections](assets/niveles-cobranza.png) | ![Inventory](assets/ejemplo-whatsapp.png) | ![Report](assets/reporte-morosos.png) |
+| Vista general del workflow | Flujo de cobranza | Alerta de inventario | HubSpot CRM | Reporte semanal |
+|---|---|---|---|---|
+| ![Overview](assets/workflow-overview.png) | ![Collections](assets/niveles-cobranza.png) | ![Inventory](assets/ejemplo-whatsapp.png) | ![HubSpot](assets/hubspot-contacts.png) | ![Report](assets/reporte-morosos.png) |
 
 ---
 
