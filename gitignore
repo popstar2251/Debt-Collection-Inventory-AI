@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# N8N
+*.sqlite
+*.db
+
+# Logs
+logs/
+*.log
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
