@@ -92,6 +92,20 @@ debt-collection-inventory-ai/
 
 ## 🚀 Setup Guide
 
+### 🔐 Environment Variables
+
+Create a `.env` file based on `.env.example`.
+
+Example configuration:
+
+- `GEMINI_API_KEY`
+- `WHATSAPP_TOKEN`
+- `WHATSAPP_PHONE_NUMBER_ID`
+- `GOOGLE_SHEETS_ID`
+- `HUBSPOT_ACCESS_TOKEN`
+
+Never commit real credentials or tokens to GitHub.
+
 ### 1. Prerequisites
 
 - N8N instance (cloud or self-hosted)
