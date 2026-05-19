@@ -86,8 +86,8 @@ debt-collection-inventory-ai/
 
 ## 📸 Screenshots
 
-| Workflow Overview | Collections Flow | Inventory Alert | Weekly Report |
-|---|---|---|---|
+| Workflow Overview | Collections Flow | Inventory Alert | HubSpot CRM | Weekly Report |
+|---|---|---|---|---|
 | ![Overview](assets/workflow-overview.png) | ![Collections](assets/niveles-cobranza.png) | ![Inventory](assets/ejemplo-whatsapp.png) | ![HubSpot](assets/hubspot-contacts.png) | ![Report](assets/reporte-morosos.png) |
 
 ---
