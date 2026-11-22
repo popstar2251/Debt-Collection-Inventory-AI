@@ -230,13 +230,6 @@ MIT License — free for personal and commercial use.
 
 ---
 
-## 👤 Author
-
-**Alejandro Peralta** — Process Automation Specialist
-
-- GitHub: [@alejandro-orbis](https://github.com/alejandro-orbis)
-- LinkedIn: [linkedin.com/in/alejandro-orbis](https://linkedin.com/in/alejandro-orbis)
-- Email: [alex_noya@hotmail.com](mailto:alex_noya@hotmail.com)
 
 ---
 
